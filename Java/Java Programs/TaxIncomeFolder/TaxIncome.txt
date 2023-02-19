@@ -1,0 +1,4 @@
+This project is a GUI script for calculating tax income.
+
+TaxIncomeMethods involves the methods for creating the GUI.
+TaxIncome is the testing script.
