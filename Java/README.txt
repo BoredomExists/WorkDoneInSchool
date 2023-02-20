@@ -20,20 +20,17 @@ College Projects:
 -ApplicationExample
 -ApplcationImages
 -HealthyRecipes
--HelloAndroidWorld
--Chapter4Example
--Chapter5Example
--Chapter6MusicApp
--Chapter7Example
--Chapter8Example
--Chapter9PracticeActivity
+-CityGuideApp
+-MusicApp
+-EndangeredSpecies
+-DatePickerApp
+-BikeandBargeApp
 
 Personal Projects:
 -PersonalApplication
--PracticeProgrammingProject
--Chapter8Project
--ProgrammingProject2
--ProgrammingProject3
--ProgrammingProject4
--ProgrammingProject6
+-FamilyGalleryApp
+-PiggyBankApp
+-CurrencyConversionApp
+-ReservationApp
+-RingtonesApp
 -GalagaRejected
