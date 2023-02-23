@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\cbier\\.gradle\\daemon\\7.4\\com.example.chapter9practiceactivity.app-mergeDebugResources-39:\\layout-sw600dp-v13\\fragment_item_detail.xml",
+        "source": "C:\\Users\\cbier\\.gradle\\daemon\\7.4\\com.example.chapter9practiceactivity.app-main-42:\\layout-sw600dp\\fragment_item_detail.xml"
+    },
+    {
+        "merged": "com.example.chapter9practiceactivity.app-mergeDebugResources-39:/layout-sw600dp-v13/fragment_item_detail.xml",
+        "source": "com.example.chapter9practiceactivity.app-main-42:/layout-sw600dp/fragment_item_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\cbier\\.gradle\\daemon\\7.4\\com.example.chapter9practiceactivity.app-mergeDebugResources-39:\\layout-sw600dp-v13\\fragment_item_list.xml",
+        "source": "C:\\Users\\cbier\\.gradle\\daemon\\7.4\\com.example.chapter9practiceactivity.app-main-42:\\layout-sw600dp\\fragment_item_list.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.chapter9practiceactivity.app-mergeDebugResources-39:/layout/activity_item_detail.xml",
+        "source": "com.example.chapter9practiceactivity.app-main-42:/layout/activity_item_detail.xml"
+    },
+    {
+        "merged": "com.example.chapter9practiceactivity.app-mergeDebugResources-39:/layout/fragment_item_detail.xml",
+        "source": "com.example.chapter9practiceactivity.app-main-42:/layout/fragment_item_detail.xml"
+    },
+    {
+        "merged": "com.example.chapter9practiceactivity.app-mergeDebugResources-39:/layout/item_list_content.xml",
+        "source": "com.example.chapter9practiceactivity.app-main-42:/layout/item_list_content.xml"
+    },
+    {
+        "merged": "com.example.chapter9practiceactivity.app-mergeDebugResources-39:/layout/photos.xml",
+        "source": "com.example.chapter9practiceactivity.app-main-42:/layout/photos.xml"
+    },
+    {
+        "merged": "com.example.chapter9practiceactivity.app-mergeDebugResources-39:/layout/fragment_item_list.xml",
+        "source": "com.example.chapter9practiceactivity.app-main-42:/layout/fragment_item_list.xml"
+    },
+    {
+        "merged": "com.example.chapter9practiceactivity.app-mergeDebugResources-39:/layout/tour.xml",
+        "source": "com.example.chapter9practiceactivity.app-main-42:/layout/tour.xml"
+    }
+]
