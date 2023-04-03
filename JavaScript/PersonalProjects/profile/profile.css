@@ -2,7 +2,7 @@ body {
     font-family: Verdana, Arial, Helvetica, sans-serif;
     font-size: 100%;
     background-color: white;
-    width: 850px;
+    width: 800px;
     margin: 0 auto;
     border: 3px solid blue;
     padding: 0 2em 1em;
@@ -21,13 +21,12 @@ div {
 }
 label {
     display: inline-block;
-    width: 11em;
-    text-align: right;
+    width: 8em;
 }
 input, select {
     margin-left: 1em;
     margin-right: 0.5em;
 }
-span {
+.message {
     color: red;
 }
