@@ -15,4 +15,6 @@ $(document).ready( () => {
 
         evt.preventDefault();
     });
+
+    $("#image_list a:first").focus();
 });
