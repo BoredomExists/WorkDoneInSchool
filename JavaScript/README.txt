@@ -3,9 +3,4 @@ Another thing to note is that the personal projects are projects that are assign
 Some of them may be similar, they are using different syntax.
 
 
-
-This folder is being updated still.
-
-
-
 If you are curious about the school I went to and the course I have taken, refer to HTML5Review.
