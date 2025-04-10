@@ -5,7 +5,7 @@
 I'm currently a senior at the University of South Carolina with a hobby of creating random projects.
 
 # About the Repo
-This repository is my collection of various projects that I have done during my time as a college student along with some personal projects. Each program or project is organized by language and then either by a something that was done in college or a personal project. All college projects are complete, but some personal projects are either completed or still being worked on.
+This repository is my collection of various projects that I have done during my time as a college student along with some personal projects. Each program or project is organized by language and then either by a something that was done in college or a personal project. All college projects are complete, but all personal projects, I consider to be experimental stuff so they may seem incomplete as they are learning experiences.
 
 ## Skills
 
