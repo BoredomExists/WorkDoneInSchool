@@ -7,12 +7,12 @@ These projects are in the Java Programs folder.
 College Projects:
 -LotteryGUI
 -TaxIncomeFolders
+-Spanglish Journey
 
 Personal Programs:
 -NewFrameCode
 -KeyEventCode
 -LoginGUI
--Spanglish Journey
 
 The folder Java Application Development has the projects that I learned in my Application Development Course.
 
