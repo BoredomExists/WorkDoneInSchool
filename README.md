@@ -19,7 +19,7 @@ I'm currently a senior at the University of South Carolina with a hobby of creat
 - [GUI Lottery Game](https://github.com/BoredomExists/WorkDoneInSchool/tree/main/Java/Java%20Programs/LotteryGUI) | Developed a website that displays database tables and allows users to input data. | Java-JFrame, Java-Checkboxes, Java-JLabel, VS Code |
 - [Spanglish Journey](https://github.com/BoredomExists/WorkDoneInSchool/tree/main/Java/Java%20Programs/LotteryGUI) | Collaborated with a team to develop a mobile language-learning application using Java | VS Code, JavaFX, SceneBuilder, Amazon Polly-Text To Speech, JSON, Scrum |
 
-## 📫 Contact
+## Contact
 
 - **Email**: crbworkemail@gmail.com 
 - **LinkedIn**: https://www.linkedin.com/in/christian-biermann-ba6a76243/
