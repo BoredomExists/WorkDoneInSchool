@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm currently a senior at the University of South Carolina with a hobby of creating random projects, so I have a variety of experience.
+I'm currently a senior at the University of South Carolina with a hobby of creating random projects.
 
 ## Tech Stack
 
