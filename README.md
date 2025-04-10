@@ -15,9 +15,12 @@ I'm currently a senior at the University of South Carolina with a hobby of creat
 ## Projects
 
 | [Web-Based Database Management](https://github.com/BoredomExists/WorkDoneInSchool/tree/main/JavaScript/PersonalProjects/WebsiteDatabaseProject) | Developed a website that displays database tables and allows users to input data. | Node.js, Express.js, AJAX, Jade/Pug |
-| [Galaga-Inspired Mobile Application](https://github.com/BoredomExists/WorkDoneInSchool/tree/main/JavaScript/PersonalProjects/WebsiteDatabaseProject) | Using Android Studio created a mobile application based on the classic arcade game Galaga | Android Studio, Java |
-| [GUI Lottery Game](https://github.com/BoredomExists/WorkDoneInSchool/tree/main/Java/Java%20Programs/LotteryGUI) | Developed a website that displays database tables and allows users to input data. | Java-JFrame, Java-Checkboxes, Java-JLabel, VS Code |
-| [Spanglish Journey](https://github.com/BoredomExists/WorkDoneInSchool/tree/main/Java/Java%20Programs/LotteryGUI) | Collaborated with a team to develop a mobile language-learning application using Java | VS Code, JavaFX, SceneBuilder, Amazon Polly-Text To Speech, JSON, Scrum |
+| 
+[Galaga-Inspired Mobile Application](https://github.com/BoredomExists/WorkDoneInSchool/tree/main/JavaScript/PersonalProjects/WebsiteDatabaseProject) | Using Android Studio created a mobile application based on the classic arcade game Galaga | Android Studio, Java |
+| 
+[GUI Lottery Game](https://github.com/BoredomExists/WorkDoneInSchool/tree/main/Java/Java%20Programs/LotteryGUI) | Developed a website that displays database tables and allows users to input data. | Java-JFrame, Java-Checkboxes, Java-JLabel, VS Code |
+| 
+[Spanglish Journey](https://github.com/BoredomExists/WorkDoneInSchool/tree/main/Java/Java%20Programs/LotteryGUI) | Collaborated with a team to develop a mobile language-learning application using Java | VS Code, JavaFX, SceneBuilder, Amazon Polly-Text To Speech, JSON, Scrum |
 
 ## 📫 Contact
 
