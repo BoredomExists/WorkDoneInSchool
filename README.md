@@ -7,7 +7,7 @@ I'm currently a senior at the University of South Carolina with a hobby of creat
 # About the Repo
 This repository is my collection of various projects that I have done during my time as a college student along with some personal projects. Each program or project is organized by language and then either by a something that was done in college or a personal project. All college projects are complete, but some personal projects are either completed or still being worked on.
 
-## Tech Stack
+## Skills
 
 - **Languages**: Java, Python, Javascript, HTML, C++, C#, CSS, Rstudio, SQL
 - **Frameworks/Libraries**: JQuery, Node.js, Express, Three.js, D3.js
